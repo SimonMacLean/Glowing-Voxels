@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DisplayVoxelCube": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
